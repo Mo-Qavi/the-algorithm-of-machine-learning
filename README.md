@@ -1,2 +1,2 @@
 # the-algorithm-of-machine-learning
-This not about machine learning algorithms, it is about how select best model at time, so it is "selecting ml algorithms" algorithm!
+This is not about machine learning algorithms, it is about how to select the best model at the time, so it is the "selecting ML algorithms" algorithm!
